@@ -16,8 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"这是主分支的内容");
-    
+    NSLog(@"这是合并后的内容");
+
 }
 
 
